@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Erstellungszeit: 14. Mrz 2020 um 16:40
+-- Erstellungszeit: 14. Mrz 2020 um 17:51
 -- Server-Version: 10.4.11-MariaDB
 -- PHP-Version: 7.4.3
 
@@ -368,9 +368,9 @@ CREATE TABLE `received` (
 --
 
 INSERT INTO `received` (`id`, `fk_proc_syst`, `fk_storage`, `received`) VALUES
-(1, 1, 1, '0000-00-00 00:00:00'),
-(2, 2, 2, '0000-00-00 00:00:00'),
-(3, 3, 3, '0000-00-00 00:00:00');
+(1, 1, 1, '2020-03-08 16:09:38'),
+(2, 2, 2, '2020-03-09 16:09:46'),
+(3, 3, 3, '2020-03-10 16:09:52');
 
 -- --------------------------------------------------------
 
